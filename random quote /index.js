@@ -15,7 +15,7 @@ const quotes = [
   " “Life is not a game of luck. If you wanna win, work hard.”  Sora from No Game No Life",
 ];
 // const usedIndex = new set();
-
+'wow'
 function generateQuote() {
 
 // if (usedIndex.size >= quotes.length) {
